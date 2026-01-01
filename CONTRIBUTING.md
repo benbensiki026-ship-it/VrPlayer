@@ -24,7 +24,7 @@ We love feature suggestions! Please create an issue with:
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/yourorg/vr-game-platform.git
+   git fork https://github.com/benbensiki026/vr-game-platform.git
    ```
 
 2. **Create a feature branch**
